@@ -1,6 +1,5 @@
-# Jservice.io is no longer running
-Sorry for the inconvenience. 
-
+# jService - a service to serve Jeopardy questions
+This project continues the work of https://github.com/sottenad at a new URL
 
 ### Requirements
 * Ruby 3.1+
