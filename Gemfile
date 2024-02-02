@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby "3.1.2"
+ruby "3.1.4"
 
 gem 'rails', '7.0.3.1'
 gem 'rack-cors'
@@ -9,12 +9,12 @@ gem 'rack-cors'
 gem 'pg'
 
 
+gem "passenger", ">= 5.3.2", require: "phusion_passenger/rack_handler"
 gem 'puma'
 gem 'tzinfo-data'
 #for scraping
 gem 'nokogiri'
 gem 'chronic'
-
 
 gem 'rack-attack'
 

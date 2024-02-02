@@ -18,6 +18,7 @@ trebek.psd
 *.swp
 .DS_Store
 db.sql
+passenger_out.log
 
 .byebug_history
 
